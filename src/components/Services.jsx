@@ -4,7 +4,6 @@ import {
   FaTeeth,
   FaChild,
   FaShieldAlt,
-  FaClinicMedical
 } from "react-icons/fa";
 
 function Services() {
